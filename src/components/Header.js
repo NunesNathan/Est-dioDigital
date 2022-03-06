@@ -2,6 +2,6 @@ import React from 'react';
 
 export default function Header() {
   return (
-    <header>Estúdio Digital</header>
+    <header>Match.mt</header>
   );
 }
